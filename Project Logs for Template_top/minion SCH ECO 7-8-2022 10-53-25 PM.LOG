@@ -1,0 +1,2 @@
+Remove Pin=J2-8 From Net=trig_L
+Add Pin To Net: Pin=J2-8 Old Net=trig_L New Net=trig_R
