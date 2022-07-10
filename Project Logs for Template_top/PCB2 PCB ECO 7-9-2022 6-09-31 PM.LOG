@@ -1,0 +1,45 @@
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=NetLabel100 Pin=J1-10
+Added Net: Name=NetLabel100
+Added Pin To Net: NetName=NetLabel101 Pin=J1-8
+Added Net: Name=NetLabel101
+Added Pin To Net: NetName=NRST Pin=J2-4
+Added Net: Name=NRST
+Added Pin To Net: NetName=PA7 Pin=J2-9
+Added Net: Name=PA7
+Added Pin To Net: NetName=PA11 Pin=J1-13
+Added Net: Name=PA11
+Added Pin To Net: NetName=PA12 Pin=J1-12
+Added Net: Name=PA12
+Added Pin To Net: NetName=PA15 Pin=J1-11
+Added Net: Name=PA15
+Added Pin To Net: NetName=PB0 Pin=J2-8
+Added Net: Name=PB0
+Added Pin To Net: NetName=PB1 Pin=J2-7
+Added Net: Name=PB1
+Added Pin To Net: NetName=PB8 Pin=J1-5
+Added Net: Name=PB8
+Added Pin To Net: NetName=PB9 Pin=J1-4
+Added Net: Name=PB9
+Added Pin To Net: NetName=PB10 Pin=J2-6
+Added Net: Name=PB10
+Added Pin To Net: NetName=PB11 Pin=J2-5
+Added Net: Name=PB11
+Added Pin To Net: NetName=PB12 Pin=J1-20
+Added Net: Name=PB12
+Added Pin To Net: NetName=PB13 Pin=J1-19
+Added Net: Name=PB13
+Added Pin To Net: NetName=PB14 Pin=J1-18
+Added Net: Name=PB14
+Added Pin To Net: NetName=PB15 Pin=J1-17
+Added Net: Name=PB15
+Added Pin To Net: NetName=PC13 Pin=J2-19
+Added Net: Name=PC13
+Added Pin To Net: NetName=PC14 Pin=J2-18
+Added Net: Name=PC14
+Added Pin To Net: NetName=PC15 Pin=J2-17
+Added Net: Name=PC15
+Added Pin To Net: NetName=VBAT Pin=J2-20
+Added Net: Name=VBAT
+Added Room: Name=minion

@@ -1,0 +1,2 @@
+Add Pin To Net: Pin=J2-9 Old Net=NetJ2_9 New Net=Echo
+Add Pin To Net: Pin=J2-10 Old Net=NetJ2_10 New Net=trig_servo
