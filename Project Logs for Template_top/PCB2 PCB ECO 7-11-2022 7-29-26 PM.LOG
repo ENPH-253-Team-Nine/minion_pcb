@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=5V Pin=J1-3
+Change Component Designator: OldDesignator= NewDesignator=D1
+Added Member To Class: ClassName=minion Member=Component D1 1N4728A
+Added Member To Class: ClassName=minion Member=Component P1 61300811021

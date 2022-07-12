@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Public\Documents\Altium\Projects\minion_pcb\PCB2.PcbDoc
-Date     : 7/9/2022
-Time     : 6:32:21 PM
+Date     : 7/11/2022
+Time     : 7:28:38 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -10,10 +10,8 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad Free-42(200mil,3200mil) on Multi-Layer And Pad J2-3(1395mil,2930mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Track (450mil,424.803mil)(455.571mil,430.374mil) on Top Layer And Pad P1-1(1915mil,420mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net 5V Between Pad P2-2(350mil,3920mil) on Multi-Layer And Pad P3-3(1450mil,3920.945mil) on Multi-Layer 
-Rule Violations :3
+   Violation between Un-Routed Net Constraint: Net 5V Between Pad J3-7(250mil,424.803mil) on Multi-Layer And Pad J1-3(795mil,1430mil) on Multi-Layer 
+Rule Violations :1
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -38,32 +36,16 @@ Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (7.816mil < 10mil) Between Pad Free-13(1820.866mil,3641.732mil) on Multi-Layer And Via (1750mil,3750mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [7.816mil] / [Bottom Solder] Mask Sliver [7.816mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.211mil < 10mil) Between Pad Free-40(300mil,3300mil) on Multi-Layer And Via (250mil,3250mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [5.211mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.211mil < 10mil) Between Pad Free-41(200mil,3300mil) on Multi-Layer And Via (250mil,3250mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [5.211mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.211mil < 10mil) Between Pad Free-42(200mil,3200mil) on Multi-Layer And Via (250mil,3250mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [5.211mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.211mil < 10mil) Between Pad Free-43(300mil,3200mil) on Multi-Layer And Via (250mil,3250mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [5.211mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.211mil < 10mil) Between Pad Free-46(200mil,2300mil) on Multi-Layer And Via (250mil,2250mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [5.211mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.211mil < 10mil) Between Pad Free-47(200mil,2200mil) on Multi-Layer And Via (250mil,2250mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [5.211mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.211mil < 10mil) Between Pad Free-49(200mil,2800mil) on Multi-Layer And Via (250mil,2750mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [5.211mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.211mil < 10mil) Between Pad Free-50(200mil,2700mil) on Multi-Layer And Via (250mil,2750mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [5.211mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.211mil < 10mil) Between Pad Free-51(200mil,1800mil) on Multi-Layer And Via (250mil,1750mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [5.211mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.211mil < 10mil) Between Pad Free-52(300mil,1800mil) on Multi-Layer And Via (250mil,1750mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [5.211mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.211mil < 10mil) Between Pad Free-53(300mil,2700mil) on Multi-Layer And Via (250mil,2750mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [5.211mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.211mil < 10mil) Between Pad Free-54(300mil,2800mil) on Multi-Layer And Via (250mil,2750mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [5.211mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.211mil < 10mil) Between Pad Free-56(300mil,2200mil) on Multi-Layer And Via (250mil,2250mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [5.211mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.211mil < 10mil) Between Pad Free-57(300mil,2300mil) on Multi-Layer And Via (250mil,2250mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [5.211mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.211mil < 10mil) Between Pad Free-64(200mil,1700mil) on Multi-Layer And Via (250mil,1750mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [5.211mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.211mil < 10mil) Between Pad Free-67(300mil,1700mil) on Multi-Layer And Via (250mil,1750mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [5.211mil]
-Rule Violations :17
+Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
    Violation between Silk To Solder Mask Clearance Constraint: (9.252mil < 10mil) Between Pad Free-63(1600mil,2700mil) on Multi-Layer And Track (1615mil,2690mil)(1665mil,2740mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.252mil]
 Rule Violations :1
 
 Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Arc (850mil,479.921mil) on Top Overlay And Text "Servo" (870mil,480mil) on Top Overlay Silk Text to Silk Clearance [0mil]
    Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "Minion Board Rev A 2022-07-08" (1950mil,3000mil) on Top Overlay And Track (1855mil,2750mil)(1975mil,2750mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-Rule Violations :1
+Rule Violations :2
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
@@ -72,6 +54,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 26
+Violations Detected : 8
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
